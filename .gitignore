@@ -23,4 +23,6 @@ frontend/.env
 
 # Logs
 *.log
+
+# Chroma DB
 backend/chroma_db/
