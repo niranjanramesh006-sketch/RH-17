@@ -1,0 +1,26 @@
+# Python
+.venv/
+.venv-1/
+venv/
+env/
+backend/.venv_auto/
+backend/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node
+frontend/node_modules/
+
+# Environment
+.env
+backend/.env
+frontend/.env
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+backend/chroma_db/
